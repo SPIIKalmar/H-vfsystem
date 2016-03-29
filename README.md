@@ -1,14 +1,13 @@
 # Hävfsystem
 
 ## Krav
-
-Använda nuvarande platta för tidmätning 
-Mätning skall ske i Epoc-time 
-Klienten skall använda nuvarande databas för historiken 
-Presentation skall ske genom en web-baserad lokal klient 
-Presentation av tid ska ske med sekunder och tusendels noggrannhet 
-Klienten skall kunna implementeras på ett system som är enkelt och bärbart/relativt bärbart Systemet skall vara relativt skyddat (inga öppna kretskort) 
-Protokollet vilket ska användas får inte vara seriellt, det bör vara parrarellt eller analogt 
+- Använda nuvarande platta för tidmätning 
+- Mätning skall ske i Epoc-time 
+- Klienten skall använda nuvarande databas för historiken 
+- Presentation skall ske genom en web-baserad lokal klient 
+- Presentation av tid ska ske med sekunder och tusendels noggrannhet 
+- Klienten skall kunna implementeras på ett system som är enkelt och bärbart/relativt bärbart Systemet skall vara relativt skyddat (inga öppna kretskort) 
+- Protokollet vilket ska användas får inte vara seriellt, det bör vara parrarellt eller analogt 
 
 ## Plattan 
 
